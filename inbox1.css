@@ -1,0 +1,42 @@
+main{
+    justify-content: center;
+    display: flex;
+}
+.margin{
+    width: 500px;
+    height: 400 px;
+    background-color: orange;
+    text-align: left;
+}
+.border{
+    width: 500px;
+    height: 400 px;
+    background-color: yellow;
+    text-align: left;
+    margin : 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+    justify-content: center;
+    
+}
+.padding{
+    width: 440px;
+    height: 400 px;
+    background-color: greenyellow;
+    text-align: left;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 20px;
+
+    
+}
+.content{
+    width: 400px;
+    height: 400 px;
+    background-color: lightskyblue;
+    text-align: left;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 20px;
+    
+}
